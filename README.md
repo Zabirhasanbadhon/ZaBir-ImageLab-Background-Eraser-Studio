@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ ZaBir ImageLab
+# ✨ ZaBir - ImageLab Background Eraser Studio
 
 ### AI-Powered Background Remover & Image Editor
 
